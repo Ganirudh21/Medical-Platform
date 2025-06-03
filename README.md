@@ -1,69 +1,41 @@
-# Welcome to your Lovable project
+🧠 Medical Image Analysis Chatbot
 
-## Project info
+An Industry Project at e-Zest | Award-Winning Solution at Vishwacon, Springer Nature Healthcare Conclave
 
-**URL**: https://lovable.dev/projects/5c27798b-5359-451c-b53c-59dd2d13ef34
+🚩 Problem Statement
+In modern healthcare, radiologists and physicians face significant challenges in interpreting medical images due to overwhelming workloads, shortage of specialists, and time-critical diagnoses. The delay in accurately analyzing medical images such as X-rays, CT scans, and MRIs can hinder early detection and treatment.
 
-## How can I edit this code?
+To address this challenge, we developed a Medical Image Analysis Chatbot — an intelligent system that assists healthcare professionals and patients by analyzing medical images and providing interpretable insights in a conversational format.
 
-There are several ways of editing your application.
+🏆 Recognition
+-This project won accolades at:
+-Vishwacon – National Conference on AI in Healthcare
+-Springer Nature Healthcare Conclave
+-Recognized for innovation in AI-assisted diagnostics and human-centric design enabling faster clinical decision-making.
 
-**Use Lovable**
+🎯 Objectives
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5c27798b-5359-451c-b53c-59dd2d13ef34) and start prompting.
+#Reduce diagnostic time using AI/ML-based image analysis.
+#Provide accessible, explainable insights via chatbot interface.
+#Assist non-specialists and frontline health workers with AI support.
+#Enable integration into telehealth and hospital systems.
 
-Changes made via Lovable will be committed automatically to this repo.
+🧪 Features
 
-**Use your preferred IDE**
+📷 Upload Medical Images (X-ray, CT, MRI)
+🤖 Chat Interface to ask medical queries related to image findings
+🧠 AI Model Prediction with class probabilities (e.g., pneumonia, tumor)
+🔍 Explainable AI using Grad-CAM visualizations
+💬 Multilingual Support (optional extension)
+🏥 Use-Case Driven Output tailored for clinical relevance
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🤝 Collaborators
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project was part of an industry-academia collaboration with e-Zest Solutions and academic guidance from healthcare professionals.
 
-Follow these steps:
+📣 Future Work
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5c27798b-5359-451c-b53c-59dd2d13ef34) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+-Support for 3D medical image formats (e.g., NIfTI)
+-Integration with EHR and hospital IT systems
+-FDA/CE compliance for clinical use
+-More diverse disease coverage and language accessibility
